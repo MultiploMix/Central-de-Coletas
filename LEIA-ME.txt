@@ -1,0 +1,16 @@
+CENTRAL DE COLETAS MM — V2
+1. No projeto Google Apps Script, mantenha apenas um arquivo .gs com o código de Code.gs.
+2. Substitua completamente o conteúdo desse arquivo pelo Code.gs deste pacote.
+3. Mantenha um arquivo HTML com nome Index (Index.html) e substitua pelo Index.html deste pacote.
+4. Salve.
+5. Em Implantar > Gerenciar implantações, edite a implantação web existente e escolha Nova versão.
+   Se não existir implantação, use Implantar > Nova implantação > App da Web.
+6. Execute como: Eu (conta proprietária autorizada para ler a planilha).
+7. Libere acesso somente aos colaboradores autorizados e teste com uma conta de colaborador.
+8. Teste 16/11/2026: Shopee 1ª coleta = 371 (sem RAFRISTAL), 2ª = 124 (com RAFRISTAL);
+   TikTok = 178, Mercado Livre = 67, Shein = 38, total operacional = 778.
+   Estes valores são da consulta de referência e podem mudar por novos lançamentos.
+9. Em cada clique em 'Consultar pedidos' ou 'Atualizar pedidos agora',
+   a Central relê a planilha original. A coluna C é ignorada para identificar pedidos.
+10. Os pedidos no quadro são informados pela equipe e descontados apenas da respectiva conta.
+A aba importada COLETAS POR DIA no Drive é somente um histórico/snapshot, não serve como atualização ao vivo.
